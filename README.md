@@ -1,3 +1,5 @@
+**_Acknowledgements_**
+
 This project is made through this [course](https://www.udemy.com/course/the-ultimate-react-course/).
 
 # Getting Started with Create React App
